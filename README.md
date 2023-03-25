@@ -5,7 +5,7 @@ I like working in teams, accepting new challenges and learning from them.
 I am a very commited person with constant desire to grow profesionally and personally. 
 Actually I would like to develop in Java lenguage and learn about Version Control Systems like Git, collaborating effectively and pursuing the objectives of the TUP from FRC UTN. 
 
-📌Knowledge-experience
+📌Knowledge-experience:
 - - > Frontend & Backend: c#, Js 
 - - > Databases: Sql, MondoDb 
 
