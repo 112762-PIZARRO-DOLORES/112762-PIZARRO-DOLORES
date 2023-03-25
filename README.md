@@ -6,7 +6,7 @@ I am a very commited person with constant desire to grow profesionally and perso
 Actually I would like to develop in Java lenguage and learn about Version Control Systems like Git, collaborating effectively and pursuing the objectives of the TUP from FRC UTN. 
 
 📌Knowledge-experience
-- - > FrontEnd & Backend: c#, Js 
+- - > Frontend & Backend: c#, Js 
 - - > Databases: Sql, MondoDb 
 
 📫**How to reach me:** 112762@tecnicatura.frc.utn.edu.ar
